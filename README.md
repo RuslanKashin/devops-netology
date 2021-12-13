@@ -9,3 +9,4 @@
 4. файлы заканчивающиеся на "_override.tf", "_override.tf.json"
 5. содержимое всех подпапок ".terraform"
 
+fix - ветка
